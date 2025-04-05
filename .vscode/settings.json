@@ -1,0 +1,20 @@
+{
+    "java.project.sourcePaths": [
+        "src"
+    ],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "c:\\Java\\javafx-sdk-17.0.14\\lib\\javafx.media.jar",
+        "c:\\Java\\javafx-sdk-17.0.14\\lib\\javafx.base.jar",
+        "c:\\Java\\javafx-sdk-17.0.14\\lib\\javafx.graphics.jar",
+        "c:\\Java\\javafx-sdk-17.0.14\\lib\\javafx.swing.jar",
+        "c:\\Java\\javafx-sdk-17.0.14\\lib\\javafx.fxml.jar",
+        "c:\\Java\\javafx-sdk-17.0.14\\lib\\javafx-swt.jar",
+        "c:\\Java\\javafx-sdk-17.0.14\\lib\\javafx.controls.jar",
+        "c:\\Java\\javafx-sdk-17.0.14\\lib\\javafx.web.jar"
+    ],
+    "jdk.runConfig.vmOptions": "<default>",
+    "maven.view": "hierarchical",
+    "C_Cpp.errorSquiggles": "disabled",
+    "java.dependency.syncWithFolderExplorer": true
+}
